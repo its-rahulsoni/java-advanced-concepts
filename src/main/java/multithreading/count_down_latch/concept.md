@@ -1,4 +1,4 @@
-Great! Let's dive into `CountDownLatch` in Java, one of the most useful synchronization utilities in `java.util.concurrent`.
+Let's dive into `CountDownLatch` in Java, one of the most useful synchronization utilities in `java.util.concurrent`.
 
 ---
 
