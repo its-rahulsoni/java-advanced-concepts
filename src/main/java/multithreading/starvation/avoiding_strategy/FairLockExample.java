@@ -6,6 +6,7 @@ public class FairLockExample {
 
     /**
      * ReentrantLock(true) ensures that threads get lock access in the order they requested it (FIFO) — preventing starvation.
+     * Note: The "true" in Lock creation ....
      */
     private static final ReentrantLock lock = new ReentrantLock(true); // fair lock
 
